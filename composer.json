@@ -3,7 +3,7 @@
     "description": "Manage field",
     "keywords": [
         "foostart",
-        "laravel 8 package field"
+        "laravel 5 package field"
     ],
     "authors": [
         {
@@ -14,7 +14,8 @@
     ],
     "license": "MIT",
     "require": {
-        "foostart/package-post": "*"      
+        "foostart/package-slideshow": "*",
+        "foostart/package-filemanager": "*"
     },
     "autoload": {
         "psr-4": {
